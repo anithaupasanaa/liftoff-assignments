@@ -22,4 +22,4 @@ We will use JavaScript, Java, Spring Boot, MySQL, and Thymeleaf to build our app
 ### What I'll Have to Learn
  We will need to learn on how access the APIs.
 ### Project Tracker
-rello.com/b/LlGBR9Y1/projectscrumboard-gardeningapp
+trello.com/b/LlGBR9Y1/projectscrumboard-gardeningapp
