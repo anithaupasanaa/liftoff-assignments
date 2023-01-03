@@ -7,13 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+![IMG_5540](https://user-images.githubusercontent.com/108021131/210311638-9b6ed521-a07c-4bd8-9be5-6c0c82b5ab38.jpg)
+![IMG_5538](https://user-images.githubusercontent.com/108021131/210311732-642ad5ab-a55e-49d4-a4c1-da0486d21530.jpg)
+!![IMG_5536](https://user-images.githubusercontent.com/108021131/210311813-e02d7e4f-862e-4c6d-913b-c1b25b40f226.jpg)
+[IMG_5537](https://user-images.githubusercontent.com/108021131/210311784-f373541e-756b-441b-808d-0b822faac4bf.jpg)
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
-
+https://trello.com/b/LlGBR9Y1/projectscrumboard-gardeningapp
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/anithaupasanaa/liftoff-assignments/edit/master/P3-Project_Planning/README.m
