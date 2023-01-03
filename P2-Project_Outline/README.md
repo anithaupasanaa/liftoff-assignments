@@ -1,18 +1,25 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
+We are creating this App to help people on Gardening.It helps people on preparing the layout of garden and how to organize the plants in the garden.It is useful for both new people and sesoned gardeners.User will be able create an account and register it.Over all this App helps the user about what kind soil we have to  use ,how much water is needed and all kinds to tips for the healthy growth .
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are creating this App to help people on Gardening.It helps people on preparing the layout of garden and how to organize the plants in the garden.It is useful for both new people and sesoned gardeners.User will be able to create an account and register it.sOver all this App helps the user about what kind soil we have to  use ,how much water is needed and all kinds to tips for the healthy growth .
 ### Features
-Include Features here
+1.User login,
+2.Types of plant,
+3.seed price lookup,
+4.Search option- to search for  plant type,
+5.Harvesting time,
+6.sort/Filters,
+7.Tips for healthy growth.
+
+
 ### Technologies
-Include Technologies here
+We will use JavaScript, Java, Spring Boot, MySQL, and Thymeleaf to build our app.
 ### What I'll Have to Learn
-Include what you will need to learn here
+ We will need to learn on how access the APIs.
 ### Project Tracker
-Link to your Trello board here
+rello.com/b/LlGBR9Y1/projectscrumboard-gardeningapp
